@@ -6,16 +6,6 @@ public abstract class User {
 	private float balance;
 	private String IP;
 
-	/**
-	 * 
-	 * @param name
-	 * @param phone
-	 */
-	public void add(int name, int phone) {
-		// TODO - implement User.add
-		throw new UnsupportedOperationException();
-	}
-
 	public void remove() {
 		// TODO - implement User.remove
 		throw new UnsupportedOperationException();
